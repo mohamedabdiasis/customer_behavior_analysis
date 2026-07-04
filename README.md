@@ -77,7 +77,7 @@ The visuals underscore that sales volume peaks within the **Clothing** and **Acc
 
 ##  🚀 How to Run This Project
 
-### ### 1. Database Setup (SQL Server Management Studio)
+###  1. Database Setup (SQL Server Management Studio)
 1. Open **SSMS** and connect to your SQL Server database engine.
 2. In the Object Explorer, right-click on **Databases** and choose **New Database...**. Name it `shopping_behavior`.
 3. Select the new database, click **New Query**, paste the provided SQL script containing your project queries, and click **Execute (F5)** to pull tables and build your views.
